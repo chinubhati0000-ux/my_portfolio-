@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my data analytics, machine learning and web development projects.
 
-**Live site:** https://your-portfolio-link.vercel.app
+**Live site:** https://chitranshaportfolio.vercel.app/
 
 ## About me
 
